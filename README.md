@@ -1,2 +1,3 @@
 # algorithm_challenge
-this repo to resolve and solution about algorithm questions  
+# این ریپو برای حل مسائل الگوریتمی می باشد
+## برای دیدن سناریو تسک ها به فایل guidline.ipynb مراجعه کنید ( تمامی سناریو ها و نام فایل تسک داخل همین فایل نوشته میشود )
