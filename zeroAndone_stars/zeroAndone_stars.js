@@ -1,5 +1,5 @@
-let zero = ["***", "*.*", "***"];
-let one = [".*.", ".*.", ".*."];
+let zero = ['***', '*.*', '***'];
+let one = ['.*.', '.*.', '.*.'];
 
 // Equivalents
 let zeroAndone = {
@@ -8,11 +8,9 @@ let zeroAndone = {
 };
 
 // sample
-let input = "1010";
+let input = '1010';
 
-let output = ["", "", ""];
-
-if (input.length > 100) return;
+let output = ['', '', ''];
 
 for (let n = 0; n < input.length; n++) {
   let digit = input[n]; // get character
